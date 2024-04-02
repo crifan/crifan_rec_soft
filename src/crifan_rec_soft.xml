@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding="utf-8"?>
+
+<!DOCTYPE book
+[
+
+<!ENTITY cur_book_name      "crifan_rec_soft" >
+<!ENTITY publish_date       "2012-10-02" >
+<!ENTITY release_version    "1.1" >
+
+<!ENTITY copyrith_year "2012" >
+<!ENTITY entity_common_multi_format     SYSTEM  "../../entity_common_multi_format.xml">
+<!ENTITY entity_common_publish_info     SYSTEM  "../../entity_common_publish_info.xml">
+]>
+
+<book
+    version="5.0"
+    xmlns="http://docbook.org/ns/docbook"
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xl="http://www.w3.org/1999/xlink"
+
+    xml:lang="zh_CN">
+<info>
+    <title>crifan推荐软件</title>
+    <subtitle></subtitle>
+    <keywordset>
+        <keyword>crifan</keyword>
+        <keyword>推荐</keyword>
+        <keyword>软件</keyword>
+        <keyword>开发工具</keyword>
+        <keyword>常用软件</keyword>
+    </keywordset>
+
+    <abstract>
+        <para>本文主要介绍了笔者crifan推荐的一些软件,包括开发相关的工具或软件,包括Notepad++,Putty,SlickEdit,Skydrive,WLW,Visio 2010 Viewer,LiveProject Project Viewer,在线条形码生成网站,以及普通电脑使用相关的软件或方法,包括PicPick,GifGifGif,PhotoFiltre,7zip,360安全浏览器,有道词典,MP3 Splitter &amp; Joiner,Boilsoft Video Joiner,Allok Video to 3GP Converter,Allok Video Joiner,Audio Record Expert,如何下载网络上的歌曲,网上找自己喜欢听的歌曲的办法,Bullzip PDF Printer,</para>
+        &entity_common_multi_format;
+    </abstract>
+
+    <revhistory>
+        <revision>
+            <revnumber>1.0</revnumber>
+            <date>2012-07-06</date>
+            <revremark>
+                <orderedlist>
+                    <listitem>搭建本文框架</listitem>
+                    <listitem>把已有的推荐帖子都整理出来了</listitem>
+                    <listitem>添加了Notepad++</listitem>
+                    <listitem>完善了Notepad++的内容</listitem>
+                </orderedlist>
+            </revremark>
+            <authorinitials>crl</authorinitials>
+        </revision>
+        <revision>
+            <revnumber>&release_version;</revnumber>
+            <date>&publish_date;</date>
+            <revremark>
+                <orderedlist>
+                    <listitem>已把Notepad++的部分，移至单独的rec_soft_npp</listitem>
+                    <listitem>完善了简介</listitem>
+                </orderedlist>
+            </revremark>
+            <authorinitials>crl</authorinitials>
+        </revision>
+    </revhistory>
+
+    &entity_common_publish_info;
+</info>
+
+<xi:include href="preface.xml" />
+<xi:include href="ch01_rec_dev_soft.xml" />
+<xi:include href="ch02_rec_common_soft.xml" />
+
+</book>

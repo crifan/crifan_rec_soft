@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding="utf-8"?>
+
+<!DOCTYPE chapter
+[
+
+<!ENTITY % crl_ent PUBLIC "crl.ent" 'http://www.crifan.com/files/res/docbook/entity/crl.ent'>
+%crl_ent;
+
+]>
+
+<chapter 
+    xmlns="http://docbook.org/ns/docbook"
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xl="http://www.w3.org/1999/xlink"
+    
+    xml:id="ch01_rec_dev_soft"
+    >
+
+<title>crifan推荐的开发工具和软件</title>
+<para>待整理：<link xl:href="http://www.crifan.com/recommand_some_useful_common_desktop_and_develop_software_or_tool/">【软件推荐】推荐一些普通电脑使用和软件开发中一些好用的工具和软件</link></para>
+    
+    <sect1 xml:id="dev.npp"><title>轻量级文本编辑器，Notepad最佳替代品：Notepad++</title>
+        <para>现已将Notepad++部分的内容移至单独的book：<link xl:href="http://www.crifan.com/files/doc/docbook/rec_soft_npp/release/html/rec_soft_npp.html">【crifan推荐】轻量级文本编辑器，Notepad最佳替代品：Notepad++</link></para>
+    </sect1>
+
+    <sect1 xml:id="dev.putty"><title>支持ssh的最佳超级终端替代品：Putty</title>
+        <para><link xl:href="http://www.crifan.com/order_under_windows_hyperterminal_best_alternative_free_serial_terminal_tool_putty/">【整理】Windows下超级终端的最佳替代品，免费的串口终端工具Putty</link></para>
+    </sect1>
+
+    <sect1 xml:id="dev.slickedit"><title>Linux下SourceInsight的替代品:SlickEdit</title>
+        <para><link xl:href="http://www.crifan.com/linux_depressing_the_code_browser_-gt_final_selection_slickedit_1402_for_linux/">Linux下，让人郁闷的代码浏览器 -&gt; 最后选用 SlickEdit 14.0.2 (for Linux )</link></para>
+    </sect1>
+
+    <sect1 xml:id="dev.skydrive"><title>免费好用的在线存储空间:Skydrive</title>
+        <para><link xl:href="http://www.crifan.com/skydrive_intro_how_get_share_link/">【crifan推荐】免费好用的在线存储空间：Skydrive</link></para>
+    </sect1>
+
+    <sect1 xml:id="dev.wlw"><title>（wordpress）博客离线发布工具：WLW(Windows Live Writer)</title>
+        <para>能去使用离线博客发布工具的，多数也是和技术搭边，所以此处划分为开发工具。</para>
+        <para><link xl:href="http://www.crifan.com/crifan_rec_dev_tool_wlw_windows_live_writer/">【crifan推荐开发工具】(wordpress等)博客离线发布工具：WLW(Windows Live Writer)</link></para>
+    </sect1>
+
+    <sect1 xml:id="dev.visio_viewer"><title>Visio查看器：Visio 2010 Viewer</title>
+        <para>能用到Visio的，一般来说，也算是和开发有关的事情了。所以此处也把此软件划分为属于开发工具。</para>
+        <para><link xl:href="http://www.crifan.com/software_free_download_software_to_view_vsd_file_-_visio_2010_viewer__vsd_convert_to_pdf_file/">【软件下载】免费查看vsd文件的软件 – Visio 2010 Viewer + 将vsd转换为pdf文件</link></para>
+    </sect1>
+
+    <sect1 xml:id="dev.liveproject_project_viewer"><title>mpp文件查看器： LiveProject Project Viewer</title>
+        <para>待整理：<link xl:href="http://www.crifan.com/recommand_some_useful_common_desktop_and_develop_software_or_tool/">【软件推荐】推荐一些普通电脑使用和软件开发中一些好用的工具和软件</link></para>
+        <para><link xl:href="http://www.crifan.com/download_mpp_file_viewer_-_liveproject_project_viewer_free_with_no_expiration/">[download] mpp file viewer – LiveProject Project Viewer (free, with no expiration)</link></para>
+    </sect1>
+
+    <sect1 xml:id="dev.online_barcode_generator"><title>在线条形码生成网站</title>
+        <para><link xl:href="http://www.crifan.com/order_free_online_sites_to_generate_barcode_online_free_barcode_generation_website/">【整理】免费 生成 条形码 在线 网站 Online free Barcode Generation Website</link></para>
+    </sect1>
+</chapter>

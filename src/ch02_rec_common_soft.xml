@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding="utf-8"?>
+
+<!DOCTYPE chapter
+[
+
+<!ENTITY % crl_ent PUBLIC "crl.ent" 'http://www.crifan.com/files/res/docbook/entity/crl.ent'>
+%crl_ent;
+
+]>
+
+<chapter 
+    xmlns="http://docbook.org/ns/docbook"
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:xl="http://www.w3.org/1999/xlink"
+    
+    xml:id="ch02_rec_common_soft"
+    >
+
+<title>crifan推荐的常用电脑软件</title>
+<para>待整理：<link xl:href="http://www.crifan.com/recommand_some_useful_common_desktop_and_develop_software_or_tool/">【软件推荐】推荐一些普通电脑使用和软件开发中一些好用的工具和软件</link></para>
+
+    <sect1 xml:id="common.picpick"><title>功能强大且好用的截图软件：PicPick</title>
+        <para><link xl:href="http://www.crifan.com/recommended_compact_easy_to_use_software_screenshot_software_picpick__super_easy_to_use_rectangular_boxes_to_add_picture_and_text_description_of_the_photo_editing_tools_picpick_image_editor/">【软件推荐】小巧好用的截图软件PicPick + 超级好用的给图片加矩形框和文字说明的图片编辑工具PicPick图像编辑器</link></para>
+        
+        <sect2 xml:id="picpick_dup_last_area"><title>PicPick截图：重复上次截取</title>
+            <para>PicPick有个很好用的功能，那就是，重复上次截取。</para>
+            <para>对此功能，我之前一直没注意过。</para>
+            <para>直到今天，当需要用到的时候，才发现是多么好用。</para>
+            <para>因为需要去给<link xl:href="http://www.crifan.com/files/doc/docbook/crifan_rec_soft/release/html/crifan_rec_soft.html#npp_func_multi_themes">Notepad++的多种主题</link>，分别截取每种主题的效果，所以要用到截取同样的位置，然后不同的主题显示出来不同的效果，更加有对比的效果。</para>
+            <para>所以，就想到了要去找个功能，用于实现截取，和上次一样的位置，固定区域的画面。</para>
+            <para>而自己所能想到的，以为是有个类似的“截取固定区域”的功能，即一个固定大小的矩形框，但是还是需要每次我手动去调节截取的位置，才能实现每次截图的效果都是针对同一个区域的。</para>
+            <para>然后，就发现，原来PicPick本身就是有个“重复上次截取”，直接可以实现此需求的：</para>
+            <informalfigure>
+                <mediaobject>
+                    <imageobject role="html"><imagedata fileref="images/picpick/dup_last_capture_area.png" align="left"   scalefit="0" width="100%" /></imageobject>
+                    <imageobject role="fo">  <imagedata fileref="images/picpick/dup_last_capture_area.png" align="center" scalefit="0" width="100%"/></imageobject>
+                </mediaobject>
+            </informalfigure>
+            <para>这样，在截取了第一次之后，之后每次，都不用没法的手动去找上次的位置，手动去尽量保持多次的截取的位置是一致的。</para>
+            <para>而直接通过Ctrl+Shift+Q，就可以直接实现此功能了，而多次截取同样位置的画面的效果，可以参见<link xl:href="http://www.crifan.com/files/doc/docbook/crifan_rec_soft/release/html/crifan_rec_soft.html#npp_func_multi_themes">Notepad++多种主题的效果</link></para>
+            <para>真的要感叹，PicPick的功能，真的很强大，很好用。</para>
+        </sect2>
+    </sect1>
+
+    <sect1 xml:id="common.gifgifgif"><title>Gif动画录制工具：GifGifGif</title>
+        <para></para>
+    </sect1>
+
+    <sect1 xml:id="common.photofiltre"><title>轻量级图片处理工具：PhotoFiltre</title>
+        <para></para>
+    </sect1>
+
+    <sect1 xml:id="common.7zip"><title>压缩率超高的压缩工具：7zip</title>
+        <para></para>
+    </sect1>
+
+    <sect1 xml:id="common.360se"><title>网页浏览器：360安全浏览器</title>
+        <para>有很多细节功能很好用。包括一键下载文件（图片/音频等）。</para>
+    </sect1>
+
+    <sect1 xml:id="common.youdao_dictionary"><title>词典翻译软件：有道词典</title>
+        <para>小巧，轻量级，够用</para>
+    </sect1>
+
+    <sect1 xml:id="common.mp3_splitter_jointer"><title>MP3合并和分割工具：MP3 Splitter &amp; Joiner</title>
+        <para><link xl:href="http://www.crifan.com/fool_teach_you_how_to_extract__split_the_climax_of_the_song/">【傻瓜式】教你如何提取/分割歌曲高潮部分</link></para>
+    </sect1>
+
+    <sect1 xml:id="common.boilsoft_video_joiner"><title>MP4视频合并工具：Boilsoft Video Joiner</title>
+        <para><link xl:href="http://www.crifan.com/mp4_video_file_merge_software_boilsoft_video_joiner/">MP4 视频文件合并软件： Boilsoft Video Joiner</link></para>
+    </sect1>
+
+    <sect1 xml:id="common.allok_video_to_3gp_converter"><title>3GP转换工具：Allok Video to 3GP Converter</title>
+        <para><link xl:href="http://www.crifan.com/recommended_software_allok_video_to_3gp_converter/">【软件推荐】Allok Video to 3GP Converter</link></para>
+    </sect1>
+
+    <sect1 xml:id="common.allok_video_joiner"><title>AVI视频合并工具：Allok Video Joiner</title>
+        <para><link xl:href="http://www.crifan.com/resolved_avi_video_file_merging_tools_allok_video_joiner_and_simple_tutorial/">【已解决】AVI 视频文件合并工具软件Allok Video Joiner及简单教程</link></para>
+    </sect1>
+
+    <sect1 xml:id="common.audio_record_expert"><title>音频录制工具：Audio Record Expert</title>
+        <para><link xl:href="http://www.crifan.com/how_to_record_online_radio/">如何录音在线电台广播</link></para>
+    </sect1>
+
+    <sect1 xml:id="common.download_online_music"><title>如何下载网络上的歌曲</title>
+        <para><link xl:href="http://www.crifan.com/teach_you_how_to_download_songs_to_download_can_guarantee_that_99_of_the_current_network_on_the_song/">教你如何下载歌曲【可以保证能下载到目前网络上99%的的歌曲】</link></para>
+    </sect1>
+
+    <sect1 xml:id="common.find_fav_music"><title>网上找自己喜欢听的歌曲的办法</title>
+        <para><link xl:href="http://www.crifan.com/recommended_serious_online_to_find_your_favorite_way_to_listen_to_songs/">【严重推荐】网上找自己喜欢听的歌曲的办法</link></para>
+    </sect1>
+
+    <sect1 xml:id="common.bullzip_pdf_printer"><title>PDF打印机：Bullzip PDF Printer</title>
+        <para>待整理：<link xl:href="http://www.crifan.com/recommand_some_useful_common_desktop_and_develop_software_or_tool/">【软件推荐】推荐一些普通电脑使用和软件开发中一些好用的工具和软件</link></para>
+        <para><link xl:href="http://www.crifan.com/order_make_pdf_file_to_keep_the_original_word_document_page_links_and_hyperlinks_within_the_common_pdf_printer__installation_method_introduction/">【整理】制作pdf文件后，保持原先word文档中的页内链接和超链接+常见pdf打印机安装使用方法简介</link></para>
+    </sect1>
+
+</chapter>
